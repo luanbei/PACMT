@@ -23,7 +23,7 @@ PACMT/
 │   ├── example.fasta
 │   └── example.csv
 └── docs/
-    └── PACMT_usage.docx
+    └── PACMT_usage.md
 ```
 
 ## Installation
