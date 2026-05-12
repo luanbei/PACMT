@@ -1,4 +1,4 @@
-PACMT
+# PACMT
 PACMT is a pretrained sequence model-based framework for viral identification and hierarchical taxonomic classification of metagenomic sequences.
 PACMT uses a two-stage serial workflow. First, a binary classifier screens input sequences as virus or non-virus. Sequences predicted as viral are then passed to a hierarchical classifier that predicts order, family, genus and species labels. A taxonomy-consistent decoding strategy is used to select a valid order-family-genus-species path.
 Model and code availability
