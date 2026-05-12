@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.log
+*.tmp
+
+# Large model/checkpoint files should be uploaded to Hugging Face, not GitHub
+*.npy
+*.pkl
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+data/
+datasets/
+outputs/
+results/
+runs/
+wandb/
+checkpoints/
+models/
+
+.env
+*.token
+.DS_Store
